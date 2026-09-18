@@ -204,6 +204,22 @@ python3 vectorinject.py --cookie "PHPSESSID=xxx" extract --url "http://target.co
 
 ---
 
+## Presentation
+
+A complete presentation of the project (10 slides) is available in PDF format:
+
+📄 **[Download Presentation (PDF)](docs/Vector-Inject.pdf)**
+
+The presentation covers:
+- Project overview and objectives
+- Architecture and modules
+- Detection techniques (Error-based, Boolean-based, Time-based, UNION-based)
+- Live demo results on DVWA
+- Technical challenges solved
+- Conclusion and future work
+
+---
+
 ## Live Demo - DVWA
 
 We tested VectorInject against **DVWA (Damn Vulnerable Web Application)** on a local lab.
