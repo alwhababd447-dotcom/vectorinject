@@ -1,0 +1,23 @@
+# VectorInject - Requirements
+# Pure Python - No external dependencies required
+# All modules used are part of the Python Standard Library
+
+# Standard Library modules used:
+# - socket
+# - ssl
+# - urllib.request
+# - urllib.parse
+# - re
+# - threading
+# - queue
+# - json
+# - time
+# - random
+# - hashlib
+# - base64
+# - argparse
+# - logging
+# - os
+# - sys
+
+# Python Version Required: 3.8+
